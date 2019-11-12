@@ -1,2 +1,2 @@
-# pg_session PostgreSql Session Variables
+# pg_session - PostgreSql Session Variables
 
